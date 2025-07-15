@@ -7,8 +7,9 @@ Hey there! I'm Samriddhi Singh, and this repository contains my basic DSA practi
 ---Strings,Two Pointers &Stacks
 
 #Progress
-   -Week1: 20+ Question
-   -Week2: 10+ Question
+   -Week1: 20+ Question and Answer
+   -Week2: 15+ Question and Answer
+   -Week3: 15+ Question and Answer
 
 ---
 
