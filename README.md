@@ -5,6 +5,7 @@ Hey there! I'm Samriddhi Singh, and this repository contains my basic DSA practi
 ## Topics Covered
 ---Arrays & HashMap
 ---Strings,Two Pointers &Stacks
+---stacks ,palindrome & Bit manipulation
 
 #Progress
    -Week1: 20+ Question and Answer
