@@ -6,11 +6,13 @@ Hey there! I'm Samriddhi Singh, and this repository contains my basic DSA practi
 ---Arrays & HashMap
 ---Strings,Two Pointers &Stacks
 ---stacks ,palindrome & Bit manipulation
+---Arrays
 
 #Progress
    -Week1: 20+ Question and Answer
    -Week2: 15+ Question and Answer
    -Week3: 15+ Question and Answer
+   -Week4: 5   Question and Answer
 
 ---
 
