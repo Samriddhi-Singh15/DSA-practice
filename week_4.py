@@ -20,7 +20,7 @@ def longestCommonPrefix(strs):
               break
         return s
 
-#3sum closet
+#Foursome
     def fourSum(self, nums, target):
         nums.sort()
         n=len(nums)
@@ -105,3 +105,26 @@ def searchInsert2(nums, target):#second way
   for i in range(len(nums)):
     if target<nums[i]:
       return i
+
+
+#threeSumClosest
+def threeSumClosest(self, nums, target):
+        nums.sort()
+        closest=float('inf')
+        min_dif=float('inf')
+        for i in range(len(nums)-2):
+            left=i+1
+            right=len(nums)-1
+            while left<right:
+                current_sum=nums[i]+nums[left]+nums[right]
+                if abs(current_sum-target)<min_dif:
+                    min_dif=abs(current_sum-target)
+                    closet=current_sum
+                if current_sum<target:
+                    left+=1
+                elif current_sum>target:
+                    right-=1
+                else:
+                    return target
+        return closet        
+        
